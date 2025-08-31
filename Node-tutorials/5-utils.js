@@ -1,0 +1,4 @@
+const runproject = (name) => {
+    console.log(`your name is ${name}`)
+}
+module.exports= runproject
